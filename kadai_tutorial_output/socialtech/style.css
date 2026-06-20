@@ -10,7 +10,7 @@ p {
 body {
   max-width: 1080px;
   margin: 0 auto 0 auto;
-  font-family: "Sourse Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
 }
 
 /* ヘッダー */
@@ -94,7 +94,7 @@ h2 {
 }
 
 h2::after {
-  content: url("images/images/line.png");
+  content: url("images/line.png");
   margin-left: 10px;
 }
 
